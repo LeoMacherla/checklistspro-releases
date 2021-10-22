@@ -1,3 +1,7 @@
 {
-  "version": "3.0.31"
+  "version": "3.0.31",
+  "MacOS": false,
+  "UNIX": false,
+  "Linux": false,
+  "Windows": true
 }
