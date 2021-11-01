@@ -1,7 +1,7 @@
 {
   "version": "3.0.34-beta",
-  "MacOS": true,
-  "UNIX": false,
-  "Linux": false,
-  "Windows": true
+  "mac": true,
+  "unix": false,
+  "linux": false,
+  "windows": true
 }
